@@ -13,3 +13,8 @@ func main() {
 	hello.Helloooo("^^")
 }
 ```
+
+```
+$ gocmdtest 
+これはコマンドだ！！
+```
